@@ -9,6 +9,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+        // My approach
       /*  long principal = 100000;
         float annualInterestRate = 3.92F;
         float monthlyInterestRate = (annualInterestRate / 100) / 12;
